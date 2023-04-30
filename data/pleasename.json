@@ -1,0 +1,32 @@
+[
+    {
+        "id": "travel01",
+        "placeName": "Sajek Valley",
+        "img": "https://thesimpletravel.com/wp-content/uploads/2022/01/Sajek_valley.jpg",
+        "description": "Sajek Valley is a popular tourist destination located in the Rangamati Hill District of Bangladesh. It is situated in the northern part of the district, near the border with India. The valley is known for its picturesque landscape, lush green hills, and serene atmosphere.The valley is surrounded by mountains, forests, and the Karnafuli river. It is home to the indigenous people of the Chakma community, who have their unique culture, language, and lifestyle. The Chakma people are hospitable and friendly towards tourists."
+    },
+    {
+        "id": "travel02",
+        "placeName": "Srimagal",
+        "img": "https://chokkor.com/wp-content/uploads/2018/10/Sreemangal-1.jpg",
+        "description" : "Srimongal is the place of tea gardens, hills and forest areas on the hills. Within your eyesight you will find green throughout. It is famous for the largest tea gardens of world covered by lush green carpet. One can have a look into the spectacular tea processing at Tea Research Institute. Bangladesh produces and exports a large quantity of high quality tea every year. Most of the tea estates are in Srimangal. It is called The land of two leaves and a bud. It is also called camellia, green carpet or Tea Mountain."
+    },
+    {
+        "id": "travel03",
+        "placeName": "Rangamati",
+        "img": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/blogxwRO3V6jNF2AnBmAHG77dl-PuQn16ETd.jpg",
+        "description": "The district is known for its lush green hills, dense forests, and beautiful lakes. The Kaptai Lake, one of the largest man-made lakes in Bangladesh, is located in Rangamati. It is a popular spot for boating and fishing.Rangamati is also home to the indigenous communities of Chakma, Marma, Tripura, and other ethnic groups. These communities have a unique culture, language, and traditional lifestyle. Visitors can explore their villages, interact with the locals, and learn about their traditions and customs."
+    },
+    {
+        "id": "travel04",
+        "placeName": "Bisanakandi",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fd/37/e9/bisnakandi.jpg?w=1200&h=-1&s=1",
+        "description": "Bisanakandi is known for its crystal clear waterfalls, which are formed by the flow of the river Khasi. Visitors can enjoy the natural beauty of the waterfalls, which are surrounded by lush green hills and rocky terrain. The sound of the gushing water and the cool breeze of the surrounding hills create a soothing atmosphere.Tourists can also enjoy boating in the river Khasi, which flows through the hills of Bisanakandi. The river is surrounded by scenic landscapes and is home to several species of fish and birds. Visitors can also explore the nearby tea gardens, which are spread across the hills and valleys of the region."
+    },
+    {
+        "id": "travel05",
+        "placeName": "Inani Beach",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/55/99/4f/inani-beach.jpg?w=1200&h=-1&s=1",
+        "description": "Inani Beach is surrounded by lush green hills and coconut trees, which provide a scenic backdrop to the beach. Visitors can enjoy swimming, sunbathing, and relaxing on the beach. The beach is also a popular spot for surfing, jet skiing, and other water sports.Inani Beach is home to several species of marine life, including sea turtles, crabs, and various types of fish. Visitors can also explore the nearby coral reefs, which are home to a diverse range of marine flora and fauna."
+    }
+]
